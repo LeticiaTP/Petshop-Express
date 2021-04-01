@@ -1,0 +1,142 @@
+{
+  "pets": [
+    {
+      "nome": "Costelinha",
+      "tipo": "cachorro",
+      "idade": 5,
+      "raca": "Vira-lata",
+      "peso": 3,
+      "tutor": "Doug",
+      "contato": "(11) 98899-4545",
+      "vacinado": true,
+      "servicos": [
+        {
+          "nome": "banho",
+          "data": "29-03-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "29-03-2021"
+        }
+      ]
+    },
+    {
+      "nome": "Snoopy",
+      "tipo": "cachorro",
+      "idade": 13,
+      "raca": "Beagle",
+      "peso": 5,
+      "tutor": "Charlie Brown",
+      "contato": "(11) 95656-4545",
+      "vacinado": true,
+      "servicos": [
+        {
+          "nome": "banho",
+          "data": "29-03-2021"
+        }
+      ]
+    },
+    {
+      "nome": "Tofu",
+      "tipo": "gato",
+      "idade": 5,
+      "raca": "Vira-lata",
+      "peso": 3,
+      "tutor": "Kauã",
+      "contato": "(11) 97171-7171",
+      "vacinado": true,
+      "servicos": []
+    },
+    {
+      "nome": "Alfredo",
+      "tipo": "cachorro",
+      "idade": 1,
+      "raca": "rusky siberiano",
+      "peso": 18,
+      "tutor": "Steve",
+      "contato": "(11) 98899-4545",
+      "vacinado": true,
+      "servicos": []
+    },
+    {
+      "nome": "Floquinho",
+      "tipo": "cachorro",
+      "idade": 1,
+      "raca": "Lhasa-Apso",
+      "peso": 18,
+      "tutor": "Cebolinha",
+      "contato": "(11) 98899-4545",
+      "vacinado": true,
+      "servicos": [
+        {
+          "nome": "banho",
+          "data": "30-03-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "30-03-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "30-03-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "30-03-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "30-03-2021"
+        },
+        {
+          "nome": "banho",
+          "data": "30-03-2021"
+        }
+      ]
+    },
+    {
+      "nome": "Danny",
+      "tipo": "cachorro",
+      "idade": 1,
+      "raca": "Harlequin Great Dane",
+      "peso": 18,
+      "tutor": "Jonathan Joestar",
+      "contato": "(11) 98899-4545",
+      "vacinado": true,
+      "servicos": []
+    },
+    {
+      "nome": "Iggy",
+      "tipo": "cachorro",
+      "idade": 1,
+      "raca": "Boston-terrier",
+      "peso": 18,
+      "tutor": "Jean Pierre Polnareff",
+      "contato": "(11) 98899-4545",
+      "vacinado": true,
+      "servicos": []
+    },
+    {
+      "nome": "Pedrita",
+      "tipo": "cachorro",
+      "idade": 10,
+      "raca": "Pastor Alemão",
+      "peso": 18,
+      "tutor": "João",
+      "contato": "(11) 98899-9999",
+      "vacinado": true,
+      "servicos": []
+    },
+    {
+      "nome": "Romarinho",
+      "tipo": "cachorro",
+      "idade": 3,
+      "raca": "American",
+      "peso": 28,
+      "tutor": "Bruno",
+      "contato": "(11) 99999-9999",
+      "vacinado": true,
+      "servicos": []
+    }
+  ]
+}
