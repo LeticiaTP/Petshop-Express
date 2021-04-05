@@ -37,12 +37,12 @@
       ]
     },
     {
-      "nome": "Satanas",
-      "tipo": "gato",
+      "nome": "Iggy",
+      "tipo": "cachorro",
       "idade": 5,
       "raca": "Vira-lata",
       "peso": 3,
-      "tutor": "Bruxa do 71",
+      "tutor": "Jean Pierre Polnareff",
       "contato": "(11) 97171-7171",
       "vacinado": true,
       "servicos": []
